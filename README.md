@@ -5,6 +5,8 @@ and prompted by the Revit API discussion forum threads on programmatic access to
 [thin](http://forums.autodesk.com/t5/revit-api/view-thin-lines/td-p/2641406)
 [lines](http://forums.autodesk.com/t5/revit-api/exported-image-line-weight-thin-line-and-rendering-setting/m-p/5528318) setting.
 
+From Revit 2015 R2 onwards, this functionality has
+[more official Revit API support](http://forums.autodesk.com/t5/revit-api/exported-image-line-weight-thin-line-and-rendering-setting/m-p/5528318).
 
 ## Author
 

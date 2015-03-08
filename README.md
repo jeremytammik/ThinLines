@@ -4,7 +4,7 @@ Revit add-in to determine and control the state of Revit UI Thin Lines setting, 
 
 ## Author
 
-Jeremy Tammik, [The Building Coder](http://thebuildingcoder.typepad.com), Autodesk Inc.
+[Revitalizer](http://www.acadgraph.de) and Jeremy Tammik, [The Building Coder](http://thebuildingcoder.typepad.com), Autodesk Inc.
 
 
 ## License

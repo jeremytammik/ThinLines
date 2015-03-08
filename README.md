@@ -1,5 +1,9 @@
 # ThinLines
-Revit add-in to determine and control the state of Revit UI Thin Lines setting, described in detail by [The Building Coder](http://thebuildingcoder.typepad.com).
+Revit add-in to determine and control the state of Revit UI Thin Lines setting, described in detail by
+[The Building Coder](http://thebuildingcoder.typepad.com)
+and prompted by the Revit API discussion forum threads on programmatic access to the
+[thin](http://forums.autodesk.com/t5/revit-api/view-thin-lines/td-p/2641406)
+[lines](http://forums.autodesk.com/t5/revit-api/exported-image-line-weight-thin-line-and-rendering-setting/m-p/5528318) setting.
 
 
 ## Author

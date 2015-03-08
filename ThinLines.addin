@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ThinLinesApp</Name>
+    <Assembly>ThinLines.dll</Assembly>
+    <AddInId>1CA07C9C-12AD-4BBF-ABC9-82A129236A39</AddInId>
+    <FullClassName>ThinLines.ThinLinesApp</FullClassName>
+    <VendorId>RVTZ</VendorId>
+    <VendorDescription>Revitalizer</VendorDescription>
+  </AddIn>
+</RevitAddIns>

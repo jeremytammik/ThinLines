@@ -8,6 +8,8 @@ and prompted by the Revit API discussion forum threads on programmatic access to
 From Revit 2015 R2 onwards, this functionality has
 [more official Revit API support](http://forums.autodesk.com/t5/revit-api/exported-image-line-weight-thin-line-and-rendering-setting/m-p/5528318).
 
+![Image](img/ThinLinesApp.png)
+
 ## Author
 
 [Revitalizer](http://www.acadgraph.de) and Jeremy Tammik, [The Building Coder](http://thebuildingcoder.typepad.com), Autodesk Inc.

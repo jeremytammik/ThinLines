@@ -6,7 +6,7 @@ and prompted by the Revit API discussion forum threads on programmatic access to
 [lines](http://forums.autodesk.com/t5/revit-api/exported-image-line-weight-thin-line-and-rendering-setting/m-p/5528318) setting.
 
 
-![Image](img/ThinLinesApp.png)
+![Image](img/ThinLinesApp2.png)
 
 
 From Revit 2015 R2 onwards, this functionality has
